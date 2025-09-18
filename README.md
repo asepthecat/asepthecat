@@ -1,5 +1,7 @@
-## Hi there 👋
+## WELCOME HUNTER🐺
+## ハンターの皆さん、ようこそ！
 
+![asepthecat](aset/WhatsApp%20Image%202025-09-18%20at%2013.37.54_4bb08116.jpg)
 <!--
 **asepthecat/asepthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
