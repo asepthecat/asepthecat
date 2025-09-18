@@ -1,6 +1,6 @@
 ## ハンターの皆さん、ようこそ！
 
-![asepthecat](aset/banner.jpg)
+![asepthecat](aset/banner%201.jpeg)
 <!--
 **asepthecat/asepthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
