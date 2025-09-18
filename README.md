@@ -1,4 +1,3 @@
-## WELCOME HUNTER🐺
 ## ハンターの皆さん、ようこそ！
 
 ![asepthecat](aset/banner.jpg)
