@@ -45,9 +45,9 @@ Blade Template             57 hrs 9 mins   █░░░░░░░░░░░�
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
+  <a href="">
+    <img src="aset/spoty.jpeg" alt="Spotify recently played"  />
   </a>
   <img width="12" />
-  <a href="https://app.daily.dev/kimmyxpow"><img src="https://api.daily.dev/devcards/v2/7iThHcyatEBVnTBeYoZ1T.png?type=default&r=57e" width="235" alt="pow's Dev Card"/></a>
+  <a href=""><img src="aset/show profile.jpeg" width="235" alt="akun ML"/></a>
 </div>
