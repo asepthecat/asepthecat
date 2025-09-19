@@ -44,23 +44,26 @@ Blade Template             57 hrs 9 mins   █░░░░░░░░░░░�
 
 ###
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div align="center">
 
-  <!-- Gambar Spotify di kiri -->
-  <div>
-    <a href="">
-      <img src="aset/spoty.jpeg" width="220" alt="Spotify recently played" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-    </a>
-    <p align="center">🎵 Now Playing</p>
-  </div>
+<table>
+  <tr>
+    <!-- Spotify di kiri -->
+    <td>
+      <a href="">
+        <img src="aset/spoty.jpeg" width="250" alt="Spotify recently played" style="border-radius:15px; box-shadow:0px 4px 12px rgba(0,0,0,0.3);" />
+      </a>
+    </td>
 
-  <!-- Gambar profil ML di kanan -->
-  <div>
-    <a href="">
-      <img src="aset/show profile.jpeg" width="250" alt="akun ML" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
-    </a>
-    <p align="center">🔥 Mobile Legends Profile</p>
-  </div>
-
+<!-- Profil ML di kanan -->
+<td>
+      <a href="">
+        <img src="aset/show profile.jpeg" width="280" alt="akun ML" style="border-radius:20px; box-shadow:0px 4px 15px rgba(0,0,0,0.4);" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
+
 
