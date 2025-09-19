@@ -45,8 +45,9 @@ Blade Template             57 hrs 9 mins   █░░░░░░░░░░░�
 ###
 
 <div align="center">
+    
   <a href="">
-    <img src="aset/spoty.jpeg" alt="Spotify recently played"  />
+    <img src="aset/spoty.jpeg" width ="200" alt="Spotify recently played"  />
   </a>
   <img width="12" />
   <a href=""><img src="aset/show profile.jpeg" width="235" alt="akun ML"/></a>
